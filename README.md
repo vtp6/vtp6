@@ -2,11 +2,11 @@
     <!-- https://github.com/vtp6/vtp6.github.io/assets/55329600/3ef8c29f-f455-468a-9a42-8dcc6af51b9a -->
     <a href="https://vtp6.github.io/">
       <img
-        src="https://github.com/vtp6/vtp6.github.io/assets/55329600/9e5f6eda-afa5-44c0-bb06-0b72a6670878"
+        src="https://vtp6.rujulnayak.com/logos/logo-banner.png"
         height="200px" alt="VTP6 logo" title="https://vtp6.github.io/" />
     </a>
     <br />
-    <img src="https://github.com/vtp6/vtp6.github.io/actions/workflows/jekyll-gh-pages.yml/badge.svg" />
+    <img src="https://img.shields.io/github/last-commit/vtp6/vtp6.github.io" />
     <a href="https://vtp6.github.io" style="text-decoration: none;">
         <img src="https://img.shields.io/website/https/vtp6.github.io/index.html.svg" />
     </a>
